@@ -1,0 +1,135 @@
+<package>
+  <metadata>
+    <id>PersonalWeb</id>
+    <version>1.0.0.0</version>
+    <authors>andrew.adinegara</authors>
+    <owners>andrew.adinegara</owners>
+    <tags>OctopusDeploy</tags>
+    <licenseUrl>http://example.com</licenseUrl>
+    <projectUrl>http://example.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The PersonalWeb deployment package, built on 2018-07-24</description>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\Content\bootstrap.css" target="Content\bootstrap.css" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\Content\bootstrap.min.css" target="Content\bootstrap.min.css" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\favicon.ico" target="favicon.ico" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\fonts\glyphicons-halflings-regular.svg" target="fonts\glyphicons-halflings-regular.svg" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\Global.asax" target="Global.asax" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\Content\Site.css" target="Content\Site.css" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\Scripts\bootstrap.js" target="Scripts\bootstrap.js" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\Scripts\bootstrap.min.js" target="Scripts\bootstrap.min.js" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\ApplicationInsights.config" target="ApplicationInsights.config" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\Scripts\jquery-1.10.2.js" target="Scripts\jquery-1.10.2.js" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\Scripts\jquery-1.10.2.min.js" target="Scripts\jquery-1.10.2.min.js" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\Scripts\jquery.validate.js" target="Scripts\jquery.validate.js" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\Scripts\jquery.validate.min.js" target="Scripts\jquery.validate.min.js" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\Scripts\jquery.validate.unobtrusive.js" target="Scripts\jquery.validate.unobtrusive.js" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\Scripts\jquery.validate.unobtrusive.min.js" target="Scripts\jquery.validate.unobtrusive.min.js" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\Scripts\modernizr-2.6.2.js" target="Scripts\modernizr-2.6.2.js" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\Scripts\respond.js" target="Scripts\respond.js" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\Scripts\respond.min.js" target="Scripts\respond.min.js" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\Web.config" target="Web.config" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\Web.Debug.config" target="Web.Debug.config" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\Web.Release.config" target="Web.Release.config" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\Views\Web.config" target="Views\Web.config" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\Views\_ViewStart.cshtml" target="Views\_ViewStart.cshtml" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\Views\Shared\Error.cshtml" target="Views\Shared\Error.cshtml" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\Views\Shared\_Layout.cshtml" target="Views\Shared\_Layout.cshtml" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\Views\Home\About.cshtml" target="Views\Home\About.cshtml" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\Views\Home\Contact.cshtml" target="Views\Home\Contact.cshtml" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\Views\Home\Index.cshtml" target="Views\Home\Index.cshtml" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\fonts\glyphicons-halflings-regular.woff" target="fonts\glyphicons-halflings-regular.woff" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\fonts\glyphicons-halflings-regular.ttf" target="fonts\glyphicons-halflings-regular.ttf" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\fonts\glyphicons-halflings-regular.eot" target="fonts\glyphicons-halflings-regular.eot" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\Scripts\jquery-1.10.2.min.map" target="Scripts\jquery-1.10.2.min.map" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\obj\Debug\PersonalWeb.csproj.CopyComplete" target="bin\obj\Debug\PersonalWeb.csproj.CopyComplete" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\ApplicationInsights.config" target="bin\ApplicationInsights.config" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\PersonalWeb.dll.config" target="bin\PersonalWeb.dll.config" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\PersonalWeb.dll" target="bin\PersonalWeb.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\PersonalWeb.pdb" target="bin\PersonalWeb.pdb" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\csc.exe" target="bin\roslyn\csc.exe" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\csc.exe.config" target="bin\roslyn\csc.exe.config" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\csc.rsp" target="bin\roslyn\csc.rsp" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\csi.exe" target="bin\roslyn\csi.exe" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\csi.exe.config" target="bin\roslyn\csi.exe.config" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\csi.rsp" target="bin\roslyn\csi.rsp" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll" target="bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll" target="bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll" target="bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\Microsoft.CodeAnalysis.dll" target="bin\roslyn\Microsoft.CodeAnalysis.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll" target="bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll" target="bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\Microsoft.CSharp.Core.targets" target="bin\roslyn\Microsoft.CSharp.Core.targets" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll" target="bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll" target="bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets" target="bin\roslyn\Microsoft.VisualBasic.Core.targets" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\Microsoft.Win32.Primitives.dll" target="bin\roslyn\Microsoft.Win32.Primitives.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\System.AppContext.dll" target="bin\roslyn\System.AppContext.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\System.Collections.Immutable.dll" target="bin\roslyn\System.Collections.Immutable.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\System.Console.dll" target="bin\roslyn\System.Console.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll" target="bin\roslyn\System.Diagnostics.FileVersionInfo.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\System.Diagnostics.Process.dll" target="bin\roslyn\System.Diagnostics.Process.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\System.Diagnostics.StackTrace.dll" target="bin\roslyn\System.Diagnostics.StackTrace.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\System.IO.Compression.dll" target="bin\roslyn\System.IO.Compression.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\System.IO.FileSystem.dll" target="bin\roslyn\System.IO.FileSystem.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\System.IO.FileSystem.DriveInfo.dll" target="bin\roslyn\System.IO.FileSystem.DriveInfo.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll" target="bin\roslyn\System.IO.FileSystem.Primitives.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\System.IO.Pipes.dll" target="bin\roslyn\System.IO.Pipes.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\System.Reflection.Metadata.dll" target="bin\roslyn\System.Reflection.Metadata.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\System.Security.AccessControl.dll" target="bin\roslyn\System.Security.AccessControl.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\System.Security.Claims.dll" target="bin\roslyn\System.Security.Claims.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll" target="bin\roslyn\System.Security.Cryptography.Algorithms.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll" target="bin\roslyn\System.Security.Cryptography.Encoding.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll" target="bin\roslyn\System.Security.Cryptography.Primitives.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll" target="bin\roslyn\System.Security.Cryptography.X509Certificates.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\System.Security.Principal.Windows.dll" target="bin\roslyn\System.Security.Principal.Windows.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\System.Text.Encoding.CodePages.dll" target="bin\roslyn\System.Text.Encoding.CodePages.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\System.Threading.Thread.dll" target="bin\roslyn\System.Threading.Thread.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\System.ValueTuple.dll" target="bin\roslyn\System.ValueTuple.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\System.Xml.ReaderWriter.dll" target="bin\roslyn\System.Xml.ReaderWriter.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\System.Xml.XmlDocument.dll" target="bin\roslyn\System.Xml.XmlDocument.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\System.Xml.XPath.dll" target="bin\roslyn\System.Xml.XPath.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\System.Xml.XPath.XDocument.dll" target="bin\roslyn\System.Xml.XPath.XDocument.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\vbc.exe" target="bin\roslyn\vbc.exe" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\vbc.exe.config" target="bin\roslyn\vbc.exe.config" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\vbc.rsp" target="bin\roslyn\vbc.rsp" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\VBCSCompiler.exe" target="bin\roslyn\VBCSCompiler.exe" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\roslyn\VBCSCompiler.exe.config" target="bin\roslyn\VBCSCompiler.exe.config" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\Antlr3.Runtime.dll" target="bin\Antlr3.Runtime.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\Microsoft.AI.Agent.Intercept.dll" target="bin\Microsoft.AI.Agent.Intercept.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\Microsoft.AI.DependencyCollector.dll" target="bin\Microsoft.AI.DependencyCollector.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\Microsoft.AI.PerfCounterCollector.dll" target="bin\Microsoft.AI.PerfCounterCollector.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll" target="bin\Microsoft.AI.ServerTelemetryChannel.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\Microsoft.AI.Web.dll" target="bin\Microsoft.AI.Web.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\Microsoft.AI.WindowsServer.dll" target="bin\Microsoft.AI.WindowsServer.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\Microsoft.ApplicationInsights.dll" target="bin\Microsoft.ApplicationInsights.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" target="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\Microsoft.Web.Infrastructure.dll" target="bin\Microsoft.Web.Infrastructure.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\Newtonsoft.Json.dll" target="bin\Newtonsoft.Json.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\System.Web.Helpers.dll" target="bin\System.Web.Helpers.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\System.Web.Mvc.dll" target="bin\System.Web.Mvc.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\System.Web.Optimization.dll" target="bin\System.Web.Optimization.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\System.Web.Razor.dll" target="bin\System.Web.Razor.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\System.Web.WebPages.Deployment.dll" target="bin\System.Web.WebPages.Deployment.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\System.Web.WebPages.dll" target="bin\System.Web.WebPages.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\System.Web.WebPages.Razor.dll" target="bin\System.Web.WebPages.Razor.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\WebGrease.dll" target="bin\WebGrease.dll" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" target="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\System.Web.Helpers.xml" target="bin\System.Web.Helpers.xml" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\System.Web.Mvc.xml" target="bin\System.Web.Mvc.xml" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\System.Web.Optimization.xml" target="bin\System.Web.Optimization.xml" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\System.Web.Razor.xml" target="bin\System.Web.Razor.xml" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\System.Web.WebPages.xml" target="bin\System.Web.WebPages.xml" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\System.Web.WebPages.Deployment.xml" target="bin\System.Web.WebPages.Deployment.xml" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\System.Web.WebPages.Razor.xml" target="bin\System.Web.WebPages.Razor.xml" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\Antlr3.Runtime.pdb" target="bin\Antlr3.Runtime.pdb" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\Newtonsoft.Json.xml" target="bin\Newtonsoft.Json.xml" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\Microsoft.ApplicationInsights.xml" target="bin\Microsoft.ApplicationInsights.xml" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\Microsoft.AI.DependencyCollector.xml" target="bin\Microsoft.AI.DependencyCollector.xml" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml" target="bin\Microsoft.AI.ServerTelemetryChannel.xml" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\Microsoft.AI.WindowsServer.xml" target="bin\Microsoft.AI.WindowsServer.xml" />
+    <file src="C:\Users\Andrew.Adinegara\source\repos\PersonalWeb\PersonalWeb\bin\Microsoft.AI.Web.xml" target="bin\Microsoft.AI.Web.xml" />
+  </files>
+</package>
