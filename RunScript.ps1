@@ -1,1 +1,1 @@
-﻿lprun .\AASB9\Import\Run.linq
+﻿lprun C:\dev\Nostra\Nostra\AASB9\Import\Run.linq
