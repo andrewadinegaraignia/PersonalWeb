@@ -1,1 +1,1 @@
-﻿lprun C:\dev\Nostra\Nostra\AASB9\Import\Run.linq
+Set-OctopusVariable -name "GeneratedForecast" -value "True"
